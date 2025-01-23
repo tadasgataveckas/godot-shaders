@@ -1,0 +1,3 @@
+wasd for camera
+arrow keys for character
+numpad1 for shockwave effect
